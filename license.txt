@@ -1,0 +1,11 @@
+Model Information:
+* title:	AG Systems - Wipeout F3600 League
+* source:	https://sketchfab.com/3d-models/ag-systems-wipeout-f3600-league-7de12310c66b449d9c5aec205cba85ce
+* author:	N-GONE (https://sketchfab.com/fdfxd2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AG Systems - Wipeout F3600 League" (https://sketchfab.com/3d-models/ag-systems-wipeout-f3600-league-7de12310c66b449d9c5aec205cba85ce) by N-GONE (https://sketchfab.com/fdfxd2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
